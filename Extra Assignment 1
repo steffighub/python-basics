@@ -1,3 +1,81 @@
-#1print Statement HOPE AI
+#1 print Statement HOPE AI
 print("HOPE AI")
 HOPE AI
+
+#2 Buy input Enter your institute name? : HOPE AI
+ans2 = input("Enter your institute name? :")
+Enter your institute name? : HOPE AI
+
+#3 Buy inputs 
+#Enter your name: Raj
+#Enter your age: 15
+#Enter your school name: Guru school
+#Enter your drgree: B.E CSE
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+schoolname = input("Enter your school name: ")
+degree = input("Enter your drgree: ")
+Enter your name:  Raj
+Enter your age:  15
+Enter your school name:  Guru school
+Enter your drgree:  B.E CSE
+
+#4 Addition
+#a= 43
+#b= 34
+#add = 77
+a = 43
+b = 34
+add = a+b
+print("add =",add)
+add = 77
+
+#5 Subtraction
+#a= 43
+#b= 34
+#Sub = 9
+a= 43
+b= 34
+Sub = a-b
+print("Sub =",Sub)
+Sub = 9
+
+#6 Multiplication
+#a=63
+#b=97
+#Mul = 6111
+a=63
+b=97
+Mul = a*b
+print("Mul =",Mul)
+Mul = 6111
+
+#7 Division
+#a=76
+#b=31
+#FloatDiv = 2.4516129032258065
+a=76
+b=31
+FloatDiv = a/b
+print("Float Div =",FloatDiv)
+Float Div = 2.4516129032258065
+
+#8 Floor division
+#a=76
+#b=31
+#Floor Div = 2
+a=76
+b=31
+FloorDiv = a//b
+print("Floor Div",FloorDiv)
+Floor Div 2
+
+#9 Power
+#a=4
+#b=4
+#power = 256
+a=4
+b=4
+power = a**b
+print("power =",power)
+power = 256
